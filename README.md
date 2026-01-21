@@ -5,6 +5,18 @@ My work combines **modern full-stack development**, **AI-powered features**, and
 
 ---
 
+## 🛠️ Tech Stack
+
+```text
+Languages: JavaScript | TypeScript | Python | Solidity
+Frameworks: React | Next.js | Django | Flask | FastAPI | Node.js | Nest.js
+AI: LLM APIs | RAG | Vector Databases
+Blockchain: Ethereum | Solana | Web3.js | Ethers.js
+Databases: PostgreSQL | MongoDB | Redis | MySQL
+Tools: Git | Docker | Linux | Firebase | Supabase
+
+---
+
 ## 🚀 What I Do
 
 ### 🌐 Full-Stack Development
@@ -38,15 +50,3 @@ My work combines **modern full-stack development**, **AI-powered features**, and
 - Linux (Ubuntu), Nginx
 - Cloud platforms: **AWS, Vercel, Railway, DigitalOcean**
 - Secure environment & secrets management
-
----
-
-## 🛠️ Tech Stack
-
-```text
-Languages: JavaScript | TypeScript | Python | Solidity
-Frameworks: React | Next.js | Django | Flask | FastAPI | Node.js | Nest.js
-AI: LLM APIs | RAG | Vector Databases
-Blockchain: Ethereum | Solana | Web3.js | Ethers.js
-Databases: PostgreSQL | MongoDB | Redis | MySQL
-Tools: Git | Docker | Linux | Firebase | Supabase
