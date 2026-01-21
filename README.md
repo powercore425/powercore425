@@ -8,12 +8,19 @@ My work combines **modern full-stack development**, **AI-powered features**, and
 ## 🛠️ Tech Stack
 
 **Languages**: JavaScript | TypeScript | Python | Solidity
+
 **Frontend**: React | Next.js | React Native | Expo | Tailwind CSS
+
 **Backend**: Node.js | Nest.js | Express | Django | Flask | FastAPI
+
 **AI/ML**: LLM APIs | RAG | Vector Databases | AI-powered automation
+
 **Blockchain**: Ethereum | Solana | Web3.js | Ethers.js | Smart Contracts
+
 **Databases**: PostgreSQL | MongoDB | MySQL | Redis
+
 **DevOps**: Docker | CI/CD | GitHub Actions | AWS | Vercel | DigitalOcean | Nginx
+
 **Tools**: Git | Firebase | Supabase | Jest | PyTest | Linux
 
 ---
