@@ -18,7 +18,7 @@ Additional:
 - Cloud: AWS | Vercel | DigitalOcean
 - DevOps: CI/CD | GitHub Actions | Nginx
 - Testing: Jest | PyTest
----
+
 
 ## 🚀 What I Do
 
