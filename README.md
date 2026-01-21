@@ -1,6 +1,7 @@
-# Full-Stack Developer | AI & Blockchain Specialist
+# 👋 Hi, I’m a Full-Stack Developer | AI & Blockchain
 
-Experienced full-stack developer specializing in scalable, secure, and high-performance web and mobile applications. Combining modern development practices with AI-powered features and blockchain integrations to deliver innovative solutions.
+I design and build **scalable, secure, and high-performance web & mobile applications**.  
+My work combines **modern full-stack development**, **AI-powered features**, and **blockchain integrations** to solve real-world problems.
 
 ---
 
