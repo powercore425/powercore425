@@ -19,7 +19,6 @@ Additional:
 - DevOps: CI/CD | GitHub Actions | Nginx
 - Testing: Jest | PyTest
 
-
 ## 🚀 What I Do
 
 ### 🌐 Full-Stack Development
