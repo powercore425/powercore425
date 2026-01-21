@@ -1,48 +1,52 @@
-## 👋 Hi, I’m a Full-Stack Developer | AI & Blockchain Engineer
+# 👋 Hi, I’m a Full-Stack Developer | AI & Blockchain
 
-🚀 I build scalable web & mobile applications with a strong focus on performance, security, and real-world impact.
-My experience spans modern frontend frameworks, robust backend systems, AI-powered features, and blockchain integrations.
+I design and build **scalable, secure, and high-performance web & mobile applications**.  
+My work combines **modern full-stack development**, **AI-powered features**, and **blockchain integrations** to solve real-world problems.
 
-🧠 Core Expertise
-🌐 Full-Stack Web Development
+---
 
-Frontend: React, Next.js, React Native, Expo, Tailwind CSS
-Backend: Node.js, Express, Django, Django REST Framework
-Databases: PostgreSQL, MySQL, MongoDB, Redis
-APIs: REST, GraphQL, WebSockets
+## 🚀 What I Do
 
-🤖 AI & Machine Learning
-AI feature integration (recommendations, automation, analytics)
-LLM integration (OpenAI / similar APIs)
-AI-powered search & content generation
-Model inference APIs & backend pipelines
-Vector databases & embeddings (RAG systems)
+### 🌐 Full-Stack Development
+- Frontend: **React, Next.js, React Native, Expo, Tailwind CSS**
+- Backend: **Node.js, Express, Django, Django REST Framework**
+- Databases: **PostgreSQL, MongoDB, MySQL, Redis**
+- APIs: **REST, GraphQL, WebSockets**
 
-⛓️ Blockchain & Web3
-Smart contract interaction (Ethereum / Solana)
-Wallet integration (MetaMask, Solana Wallet Adapter)
-Web3 authentication
-NFT & token-based systems
-On-chain + off-chain architecture
+---
 
-☁️ DevOps & Cloud
-Docker & containerized deployments
-CI/CD pipelines (GitHub Actions)
-AWS / Vercel / Railway / DigitalOcean
-Nginx, Linux (Ubuntu)
-Environment & secrets management
+### 🤖 AI Integration
+- AI-powered features (search, recommendations, automation)
+- LLM integration (OpenAI & similar APIs)
+- Retrieval-Augmented Generation (RAG)
+- Vector databases & embeddings
+- AI-backed analytics and workflows
 
-🛠️ Tech Stack
+---
+
+### ⛓️ Blockchain & Web3
+- Wallet integration (MetaMask, Solana Wallet Adapter)
+- Smart contract interaction (Ethereum, Solana)
+- Web3 authentication
+- Token, NFT & on-chain/off-chain systems
+
+---
+
+### ☁️ DevOps & Deployment
+- Docker & containerized applications
+- CI/CD with GitHub Actions
+- Linux (Ubuntu), Nginx
+- Cloud platforms: **AWS, Vercel, Railway, DigitalOcean**
+- Secure environment & secrets management
+
+---
+
+## 🛠️ Tech Stack
+
+```text
 Languages: JavaScript | TypeScript | Python | Solidity
 Frameworks: React | Next.js | Django | Node.js
-AI: LLM APIs | RAG | Vector DBs
+AI: LLM APIs | RAG | Vector Databases
 Blockchain: Ethereum | Solana | Web3.js | Ethers.js
 Databases: PostgreSQL | MongoDB | Redis
 Tools: Git | Docker | Linux | Firebase | Supabase
-
-📌 What I Focus On
-Clean, maintainable architecture
-Secure authentication & authorization
-Performance optimization
-Scalable system design
-Real-world AI use cases (not just buzzwords)
