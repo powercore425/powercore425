@@ -7,7 +7,6 @@ My work combines **modern full-stack development**, **AI-powered features**, and
 
 ## 🛠️ Tech Stack
 
-```text
 Languages: JavaScript | TypeScript | Python | Solidity
 Frameworks: React | Next.js | Django | Flask | FastAPI | Node.js | Nest.js
 AI: LLM APIs | RAG | Vector Databases
