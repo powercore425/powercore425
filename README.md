@@ -50,3 +50,6 @@ Docker containerization, CI/CD pipelines, cloud deployment (AWS, Vercel, Railway
 ## 📬 Let's Connect
 
 Open to collaboration on innovative projects and consulting opportunities.
+- 📧 **Email**: [reepark@gmail.com](mailto:reepark@gmail.com)
+- 💬 **Telegram**: [@truepower425](https://t.me/truepower425)
+
