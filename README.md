@@ -9,7 +9,7 @@ My work combines **modern full-stack development**, **AI-powered features**, and
 
 ### 🌐 Full-Stack Development
 - Frontend: **React, Next.js, React Native, Expo, Tailwind CSS**
-- Backend: **Node.js, Express, Django, Django REST Framework**
+- Backend: **Node.js, Nest.js, Express, Flask, Django, Django REST Framework**
 - Databases: **PostgreSQL, MongoDB, MySQL, Redis**
 - APIs: **REST, GraphQL, WebSockets**
 
@@ -45,8 +45,8 @@ My work combines **modern full-stack development**, **AI-powered features**, and
 
 ```text
 Languages: JavaScript | TypeScript | Python | Solidity
-Frameworks: React | Next.js | Django | Node.js
+Frameworks: React | Next.js | Django | Flask | FastAPI | Node.js | Nest.js
 AI: LLM APIs | RAG | Vector Databases
 Blockchain: Ethereum | Solana | Web3.js | Ethers.js
-Databases: PostgreSQL | MongoDB | Redis
+Databases: PostgreSQL | MongoDB | Redis | MySQL
 Tools: Git | Docker | Linux | Firebase | Supabase
