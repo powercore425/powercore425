@@ -131,7 +131,7 @@ Deploying and managing secure, scalable production environments.
 
 # 📬 Connect With Me
 
-- ✉️ Email: **reepark@gmail.com**
+- ✉️ Email: **reepakr84@gmail.com**
 - 💬 Telegram: https://t.me/truepower425
 
 ---
