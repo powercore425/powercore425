@@ -1,55 +1,139 @@
-# 👋 Hi, I’m a Full-Stack Developer | AI & Blockchain
+# 👋 Hi, I'm a Full-Stack Developer | AI Engineer | Blockchain Developer | Shopify & WordPress Expert
 
-I design and build **scalable, secure, and high-performance web & mobile applications**.  
-My work combines **modern full-stack development**, **AI-powered features**, and **blockchain integrations** to solve real-world problems.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**: JavaScript | TypeScript | Python | Solidity
-
-**Frontend**: React | Next.js | React Native | Expo | Tailwind CSS
-
-**Backend**: Node.js | Nest.js | Express | Django | Flask | FastAPI
-
-**AI/ML**: LLM APIs | RAG | Vector Databases | AI-powered automation
-
-**Blockchain**: Ethereum | Solana | Web3.js | Ethers.js | Smart Contracts
-
-**Databases**: PostgreSQL | MongoDB | MySQL | Redis
-
-**DevOps**: Docker | CI/CD | GitHub Actions | AWS | Vercel | DigitalOcean | Nginx
-
-**Tools**: Git | Firebase | Supabase | Jest | PyTest | Linux
+I build scalable, secure, and high-performance web & mobile applications using modern technologies.  
+My expertise spans full-stack development, AI integrations, blockchain solutions, and custom e-commerce platforms.
 
 ---
 
-## 💼 Expertise
+## 🚀 About Me
+
+- 🔥 Building modern web & mobile applications
+- 🤖 Integrating AI-powered features & automation
+- ⛓️ Developing Web3 & blockchain applications
+- 🛍️ Creating custom Shopify & WordPress solutions
+- ☁️ Deploying scalable cloud infrastructure
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+
+---
+
+### 🤖 AI / ML
+- LLM API Integration
+- RAG Systems
+- Vector Databases
+- AI Chatbots
+- AI Automation
+- Semantic Search
+
+---
+
+### ⛓️ Blockchain / Web3
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
+![Solana](https://img.shields.io/badge/-Solana-black?style=flat-square&logo=solana)
+
+- Smart Contracts
+- Web3.js / Ethers.js
+- Wallet Integration
+- NFT & Token Systems
+- Web3 Authentication
+
+---
+
+### 🛍️ E-Commerce & CMS
+![Shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=shopify)
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-black?style=flat-square&logo=woocommerce)
+
+- Shopify Theme Customization
+- Shopify App Integration
+- WooCommerce Development
+- Custom WordPress Themes & Plugins
+- Headless CMS Solutions
+
+---
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+
+---
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
+
+- CI/CD Pipelines
+- GitHub Actions
+- Linux Server Management
+- Performance Optimization
+- Infrastructure Security
+
+---
+
+# 💼 Expertise
 
 ### 🌐 Full-Stack Development
-Building end-to-end applications with React, Next.js, Node.js, Django, and modern databases. REST, GraphQL, and WebSocket API development.
+Building scalable end-to-end applications with modern frontend and backend technologies.
+
 ### 🤖 AI Integration
-LLM integration, RAG systems, vector databases, AI-powered search and recommendations, intelligent automation workflows.
-### ⛓️ Blockchain & Web3
-Smart contract development, wallet integration, Web3 authentication, token/NFT systems, hybrid on-chain/off-chain architectures.
-### ☁️ DevOps & Cloud
-Docker containerization, CI/CD pipelines, cloud deployment (AWS, Vercel, Railway), server management, secure infrastructure.
+Creating AI-powered applications using LLMs, RAG pipelines, and intelligent automation systems.
+
+### ⛓️ Blockchain Development
+Developing smart contracts, decentralized applications, and hybrid Web3 architectures.
+
+### 🛍️ Shopify & WordPress
+Building custom e-commerce stores, themes, plugins, and optimized CMS solutions.
+
+### ☁️ DevOps & Infrastructure
+Deploying and managing secure, scalable production environments.
 
 ---
 
-## 🎯 Key Capabilities
+# 📈 Current Focus
 
-- **Architecture**: Scalable systems, microservices, API-first design
-- **Performance**: Optimization, caching, database tuning
-- **Security**: Secure coding, authentication, encryption
-- **Collaboration**: Agile methodologies, code reviews, documentation
+- AI SaaS Applications
+- Web3 Platforms
+- Scalable Backend Systems
+- Shopify Custom Apps
+- Performance Optimization
 
 ---
 
-## 📬 Let's Connect
+# 📬 Connect With Me
 
-Open to collaboration on innovative projects and consulting opportunities.
-- ✉️ **Email**: [Contact via Email](mailto:reepark@gmail.com)
-- <img src="https://telegram.org/img/t_logo.png" width="16" height="16" alt="Telegram"> **Telegram**: [Contact via Telegram](https://t.me/truepower425)
+- ✉️ Email: **reepark@gmail.com**
+- 💬 Telegram: https://t.me/truepower425
 
+---
+
+⭐ Always open to collaborating on innovative projects.
